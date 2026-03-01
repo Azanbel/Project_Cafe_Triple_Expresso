@@ -10,7 +10,7 @@ body {
 }
 .header {
   background-color: #fff;
-  background-image: url("./images/background_header.svg");
+  background-image: url("../images/background_header.svg");
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center;
